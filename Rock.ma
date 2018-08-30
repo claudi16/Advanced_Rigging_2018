@@ -1,6 +1,6 @@
 //Maya ASCII 2018 scene
 //Name: Rock.ma
-//Last modified: Tue, Aug 28, 2018 02:58:12 PM
+//Last modified: Tue, Aug 28, 2018 02:59:52 PM
 //Codeset: 1252
 requires maya "2018";
 currentUnit -l centimeter -a degree -t film;
