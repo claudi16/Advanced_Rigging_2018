@@ -1,6 +1,6 @@
 //Maya ASCII 2018 scene
 //Name: Cat.ma
-//Last modified: Thu, Nov 08, 2018 05:17:55 PM
+//Last modified: Thu, Nov 08, 2018 05:18:46 PM
 //Codeset: 1252
 requires maya "2018";
 currentUnit -l centimeter -a degree -t film;
