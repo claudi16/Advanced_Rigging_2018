@@ -1,0 +1,5 @@
+// Exported skin weight map file
+// 
+Butterfly:Geometry|Butterfly:Butterfly	Butterfly:COG_Jnt	Butterfly_COG_Jnt.iff
+Butterfly:Geometry|Butterfly:Butterfly	Butterfly:L_Wing_Jnt	Butterfly_L_Wing_Jnt.iff
+Butterfly:Geometry|Butterfly:Butterfly	Butterfly:R_Wing_Jnt	Butterfly_R_Wing_Jnt.iff
